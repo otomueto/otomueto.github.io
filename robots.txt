@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otomueto.github.io/Ghv/sitemap_index.txt
+Sitemap: https://otomueto.github.io/Ryl/sitemap_index.txt
+Sitemap: https://otomueto.github.io/cRW/sitemap_index.txt
+Sitemap: https://otomueto.github.io/sVG/sitemap_index.txt
